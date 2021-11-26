@@ -1,0 +1,27 @@
+{
+  "name": "back-proj-3",
+  "version": "1.0.0",
+  "description": "Projeto 3 do módulo 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyrtonFSDiniz/Back-Proj-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyrtonFSDiniz/Back-Proj-3/issues"
+  },
+  "homepage": "https://github.com/AyrtonFSDiniz/Back-Proj-3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "mongoose": "^6.0.13"
+  }
+}
